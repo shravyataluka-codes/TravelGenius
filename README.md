@@ -61,3 +61,14 @@ The frontend will typically run at `http://localhost:5173`.
 - **Overpass API**: For fetching specific points of interest.
 - **OSRM API**: For route distance and geometry calculations.
 - **Open-Meteo API**: For weather forecasts (if integrated).
+
+---
+
+## Meet Team Ctrl Alt Elite
+
+We are the team that built TravelGenius during this hackathon. Check out our profiles below to see more of our work:
+
+- **Taluka Shravya** ([@shravyataluka-codes](https://github.com/shravyataluka-codes)) – *Full Stack & Integration (Aspiring Backend Developer)*
+-**Siri Sonaganti** ([@sirisonaganti-max](https://github.com/sirisonaganti-max)) – *Frontend Engineer*
+- **Sinjini Kruthi** ([@sinjinikruthi2007-png](https://github.com/sinjinikruthi2007-png)) – *Backend Engineer*
+- **Divya Tepati** ([@divyatepati](https://github.com/divyatepati)) – *Machine Learning Engineer*
